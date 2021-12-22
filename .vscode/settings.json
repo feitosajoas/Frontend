@@ -1,0 +1,53 @@
+{
+  "files.eol": "\n",
+  "angular.log": "off",
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "explorer.confirmDelete": false,
+  "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "off",
+  "git.autofetch": true,
+  "editor.renderWhitespace": "none",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {​​​​​
+  "source.fixAll.tslint": true,
+  "source.organizeImports": true
+  }​​​​​,
+  "editor.foldingHighlight": false,
+  "[scss]": {​​​​​
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }​​​​​,
+  "html.format.wrapLineLength": 140,
+  "[javascript]": {​​​​​
+  "editor.defaultFormatter": "vscode.typescript-language-features"
+  }​​​​​,
+  "editor.insertSpaces": false,
+  "angular.experimental-ivy": true,
+  "typescript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.profiles.windows": {
+      "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)": {
+          "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+          "args": []
+      }
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "editor.scrollbar.horizontalScrollbarSize": 20,
+  "editor.scrollbar.verticalScrollbarSize": 50,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.colorTheme": "Andromeda",
+  "editor.formatOnSave": true,
+}
